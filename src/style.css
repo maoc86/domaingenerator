@@ -1,1 +1,13 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background: black;
+}
+.container-fluid {
+  background: white;
+  width: 400px;
+  height: 300px;
+  padding: 30px;
+  margin: auto;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
