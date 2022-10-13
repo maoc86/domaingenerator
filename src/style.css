@@ -4,8 +4,7 @@ body {
 }
 .container-fluid {
   background: white;
-  width: 400px;
-  height: 300px;
+  height: auto;
   padding: 30px;
   margin: auto;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
